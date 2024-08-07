@@ -15,5 +15,5 @@ main.py:
 
 main_menu(conn): Displays the main menu for managing the warehouse, where you can view items, add new ones, update quantities, and make purchases.
 main(): Runs the application by creating a database connection and displaying the main menu.
-![](https://github.com/BlackWaterPark0011010111/WareHouse/blob/master/WareHouse/426.png)
-![](https://github.com/BlackWaterPark0011010111/WareHouse/blob/master/WareHouse/15.png)
+![f](https://github.com/BlackWaterPark0011010111/WareHouse/blob/master/WareHouse/426.png)
+![s](https://github.com/BlackWaterPark0011010111/WareHouse/blob/master/WareHouse/15.png)
